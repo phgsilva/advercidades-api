@@ -1,0 +1,11 @@
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\AdverCidades.Repositorio.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\AdverCidades.Repositorio.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\AdverCidades.Dados.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\AdverCidades.Domain.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\AdverCidades.Dados.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\AdverCidades.Domain.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\obj\Debug\AdverCidades.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\obj\Debug\AdverCidades.Repositorio.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Repositorio\obj\Debug\AdverCidades.Repositorio.pdb

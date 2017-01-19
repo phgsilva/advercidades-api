@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="advercidadesapiv1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PedroHenrique\\Documents\\Visual\ Studio\ 2013\\Projects\\AdverCidades\\AdverCidades\.Api\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\PedroHenrique\\Documents\\Visual\ Studio\ 2013\\Projects\\AdverCidades\\AdverCidades\.Api\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="AdverCidadesConnectionString-Web.config Connection String" description="" value="Data Source=advercidades-server-db.database.windows.net;Initial Catalog=AdverCidades;User ID=AdverCidades;Password=Sisistemas1;MultipleActiveResultSets=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PedroHenrique\\Documents\\Visual\ Studio\ 2013\\Projects\\AdverCidades\\AdverCidades\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AdverCidadesConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

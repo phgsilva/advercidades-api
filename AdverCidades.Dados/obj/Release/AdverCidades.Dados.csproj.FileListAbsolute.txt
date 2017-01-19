@@ -1,0 +1,12 @@
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\AdverCidades.Dados.dll.config
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\AdverCidades.Dados.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\AdverCidades.Dados.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\AdverCidades.Domain.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\EntityFramework.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\AdverCidades.Domain.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\EntityFramework.xml
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\obj\Release\AdverCidades.Dados.csprojResolveAssemblyReference.cache
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\obj\Release\AdverCidades.Dados.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Dados\obj\Release\AdverCidades.Dados.pdb

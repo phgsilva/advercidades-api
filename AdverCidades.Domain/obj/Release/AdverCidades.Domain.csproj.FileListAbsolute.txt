@@ -1,0 +1,5 @@
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\bin\Release\AdverCidades.Domain.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\bin\Release\AdverCidades.Domain.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\obj\Release\AdverCidades.Domain.csprojResolveAssemblyReference.cache
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\obj\Release\AdverCidades.Domain.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\obj\Release\AdverCidades.Domain.pdb

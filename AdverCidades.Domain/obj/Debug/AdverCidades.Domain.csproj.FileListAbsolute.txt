@@ -1,0 +1,4 @@
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\bin\Debug\AdverCidades.Domain.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\bin\Debug\AdverCidades.Domain.pdb
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\obj\Debug\AdverCidades.Domain.dll
+C:\Users\PedroHenrique\Documents\Visual Studio 2013\Projects\AdverCidades\AdverCidades.Domain\obj\Debug\AdverCidades.Domain.pdb
